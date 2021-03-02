@@ -22,6 +22,6 @@ Todo el código mostrado en los videos del curso (excepto el mostrado en diaposi
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
+[lil-course-url]: https://www.linkedin.com/learning/c-avanzado/
 [lil-thumbnail-url]: http://
 
